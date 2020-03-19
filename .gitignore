@@ -1,12 +1,12 @@
 # Add any directories, files, or patterns you don't want to be tracked by version control
 
+venv/**
 *.pth
 *.pkl
 models/classifier
 models
 gitignore
 gitignore/**
-seq2seq_venv
 .*/**
 *.pth
 *.pkl
