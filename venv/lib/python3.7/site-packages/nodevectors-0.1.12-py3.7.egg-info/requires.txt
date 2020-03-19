@@ -1,0 +1,8 @@
+csrgraph
+gensim
+networkx
+numba
+numpy
+pandas
+scipy
+scikit-learn

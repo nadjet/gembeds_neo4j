@@ -1,0 +1,3 @@
+#!/Users/nadjet/Work/olympic_athletes/gembeds/venv/bin/python
+from numba.pycc import main
+main()

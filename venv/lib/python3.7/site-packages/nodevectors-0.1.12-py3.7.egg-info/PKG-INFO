@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: nodevectors
+Version: 0.1.12
+Summary: Fast network node embeddings
+Home-page: https://github.com/VHRanger/nodevectors/
+Author: Matt Ranger
+Author-email: UNKNOWN
+License: MIT
+Description: UNKNOWN
+Keywords: graph,network,embedding,node2vec
+Platform: UNKNOWN

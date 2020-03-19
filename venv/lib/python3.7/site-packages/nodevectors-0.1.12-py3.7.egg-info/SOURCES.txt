@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+nodevectors/__init__.py
+nodevectors/embedders.py
+nodevectors.egg-info/PKG-INFO
+nodevectors.egg-info/SOURCES.txt
+nodevectors.egg-info/dependency_links.txt
+nodevectors.egg-info/requires.txt
+nodevectors.egg-info/top_level.txt
