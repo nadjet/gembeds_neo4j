@@ -32,19 +32,19 @@ For node with id 3, we get only 2 nodes with similarity above 0.9. The subgraph 
 The similarity of node 3 with the two other nodes is quite remote in this case: they share the same game (1900 Summer) and the fact that they all got at least a gold medal in that game. Furthermore, although they share to have only participated in this particular game, it is unclear whether this is a distinctive feature that sets them apart from the other athletes participating in the game. The two similar nodes share neither team nor sport with node 3 (although they share sport amongst themselves). All in all, it is probably the conjunction of those features that make them similar.
 
 
-![alt text](https://github.com/nadjet/olympic_gembeds/images/example1.png)
+![alt text](https://github.com/nadjet/gembeds_neo4j/images/example1.png)
 
 ### Example 2
 
 Node with id 8807 is also most similar to only 2 nodes given the threshold, as shown in the figure below. These share the game and team, and the fact that none earnt any medal. Also none of those athletes participated in any other games. On the other hand, neither athletes share any event or sport.
 
-![alt text](https://github.com/nadjet/olympic_gembeds/images/example2.png)
+![alt text](https://github.com/nadjet/gembeds_neo4j/images/example2.png)
 
 ### Example 3
 
 Node with id 4 has all 20 most similar nodes with similarity threshold above 0.9. The figure below display the 4 most similar nodes, which all share team and sport.
 
-![alt text](https://github.com/nadjet/olympic_gembeds/images/example2.png)
+![alt text](https://github.com/nadjet/gembeds_neo4j/images/example2.png)
 
 ## What next?
 
